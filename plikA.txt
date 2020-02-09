@@ -1,1 +1,1 @@
-Zmiana w pliku A.
+Zmiana w pliku A po rebase.
